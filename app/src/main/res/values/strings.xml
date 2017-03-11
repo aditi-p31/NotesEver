@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NoteEver</string>
+    <string name="caption">Caption</string>
+    <string name="enter_caption">Enter Caption..</string>
+
+
+    <string name="button_click_image">Click Image</string>
+    <string name="button_done">DONE</string>
+
+
+    <string name="uninstall">Uninstall</string>
+    <string name="deleteAll">Delete All</string>
+</resources>
